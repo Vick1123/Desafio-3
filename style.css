@@ -52,10 +52,10 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center; /* Alinha ao centro horizontalmente */
-   align-content: center; /* Alinha ao centro verticalmente */
-   padding: 20px; /* Espaço externo */
-   gap: 10px;
-  
+    align-content: center; /* Alinha ao centro verticalmente */
+    padding: 20px; /* Espaço externo */
+    gap: 10px;
+   
 
 }
 
